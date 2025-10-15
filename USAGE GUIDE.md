@@ -17,8 +17,8 @@
   line 57 of it.
   Change the I.P. address to the I.P. address of your wifi.
 - You might need to add the following as well:
--- In the folder of your code add a .vscode(for me) folder
--- Inside that add the json file added in the repository
+  - In the folder of your code add a .vscode(for me) folder
+  - Inside that add the json file added in the repository
 - Add the mainserver and megaeditor file to two different files and name them mainserver.c and megaeditor.c respectively.
 - Copy the given codes there
 - In the terminal execute the following compilation code for mainserver:
