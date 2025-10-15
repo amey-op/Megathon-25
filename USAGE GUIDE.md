@@ -8,8 +8,8 @@
 - libcurl
 
   Please note that the code we have written works properly only on linux, and its best if you use vscode for the running
-  Run the following command on terminal to install the required librarys:
-  sudo apt update
+  Run the following command on terminal to install the required librarys:  
+  sudo apt update  
   sudo apt install build-essential pkg-config libgtk-3-dev libjson-glib-dev libcurl4-gnutls-dev
 
 # COMPILATION
