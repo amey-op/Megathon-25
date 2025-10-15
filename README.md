@@ -11,6 +11,10 @@
 - It should store version history of the document over time, and allow to revert to previous verisons
 
   The problem statement was restricted only to UG1 students and the code was to be made entirely in C.
+
+  ## 📘 Usage Guide
+
+ For further usage instructions, check out the [USAGE GUIDE](./USAGE%20GUIDE.md).
   
-  P.S: Team name: Illuminati  
+ P.S: Team name : Illuminati  
         Status  : Winners
