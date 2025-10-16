@@ -40,5 +40,8 @@
 
 
 # HOW TO USE
+- As soon as you run the megaeditor, you will be able to see in the white pop up asking for username and password
+- You can create your own username and password, register first and then login
+- 
 
 
