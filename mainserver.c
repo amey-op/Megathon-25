@@ -1,6 +1,5 @@
 /*
- * mainserver.c - Collaborative Editor Server with Chat and Shared Terminal
- * Fixed version with media sync, center alignment, and file open sync
+ The file for mainserver. Copy it entirely using CTRL + A
  */
 
 #include <gio/gio.h>
