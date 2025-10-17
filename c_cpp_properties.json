@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "name": "Fedora GTK",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/usr/include/gtk-3.0",
+        "/usr/include/pango-1.0",
+        "/usr/include/cloudproviders",
+        "/usr/include/cairo",
+        "/usr/include/gdk-pixbuf-2.0",
+        "/usr/include/webp",
+        "/usr/include/at-spi2-atk/2.0",
+        "/usr/include/at-spi-2.0",
+        "/usr/include/atk-1.0",
+        "/usr/include/dbus-1.0",
+        "/usr/lib64/dbus-1.0/include",
+        "/usr/include/fribidi",
+        "/usr/include/libxml2",
+        "/usr/include/pixman-1",
+        "/usr/include/harfbuzz",
+        "/usr/include/freetype2",
+        "/usr/include/libpng16",
+        "/usr/include/gio-unix-2.0",
+        "/usr/include/glib-2.0",
+        "/usr/lib64/glib-2.0/include",
+        "/usr/include/libmount",
+        "/usr/include/blkid",
+        "/usr/include/sysprof-6"
+      ],
+      "defines": [
+        "WITH_GZFILEOP"
+      ],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
