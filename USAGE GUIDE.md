@@ -14,7 +14,7 @@
 
 # COMPILATION
 - Firstly anyone who wants to run the code must connect to a common wifi. Then go to the megaeditor code and go to
-  line 57 of it.
+  line 61 of it.
   Change the I.P. address to the I.P. address of your wifi.
 - You might need to add the following as well:
   - In the folder of your code add a .vscode(for me) folder
