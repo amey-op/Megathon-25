@@ -42,6 +42,9 @@
 # HOW TO USE
 - As soon as you run the megaeditor, you will be able to see in the white pop up asking for username and password
 - You can create your own username and password, register first and then login
-- 
+- You will be able to see the user interface of ours.
+  The left top part is where you write your text/code
+  The left bootom part is the terminal
+  You will have a taskbar on the top where you will be able to see all the rich text features like 
 
 
