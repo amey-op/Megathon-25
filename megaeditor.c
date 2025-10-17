@@ -1,3 +1,7 @@
+/*
+    ADD YOUR WIFI IP ADDRESS AT LINE NO 61 OF THE CODE
+*/
+
 #include <gtk/gtk.h>
 #include <gio/gio.h>
 #include <glib.h>
@@ -54,7 +58,7 @@ GSocketConnection *g_server_connection = NULL;
 gboolean g_is_updating_from_network = FALSE;
 GDataInputStream *g_server_input_stream = NULL;
 
-const char *g_server_host = "10.151.48.149";
+const char *g_server_host = "10.151.48.149"; // ADD YOUR IP COMMON WIFI IP ADDRESS HERE
 
 // --- Remote User Tracking ---
 typedef struct {
