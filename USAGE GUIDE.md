@@ -45,6 +45,26 @@
 - You will be able to see the user interface of ours.
   The left top part is where you write your text/code
   The left bootom part is the terminal
-  You will have a taskbar on the top where you will be able to see all the rich text features like 
+-  You will have a taskbar on the top where you will be able to see all the rich text features like:
+  - Font size
+  - Bold, Underline, Italics
+  - Left centered, Central and right centered (works when you select text)
+  - Text Colour
+  - Backgorund colour
+  - Clear format(This feature is not gien in word as well!)
+- The taskbar also contains features such as:
+  - Open: a preexisting file on the device
+  - save to save version history
+  - save as to save the text locally on your computer
+  - Run to run an executable code
+  - insert media to insert photo or video on the text
+  - History to see all the version historys and revert to anyone if required
+  - AI chat
+  - USER chat(to chat with other users on the same ip and text)
+ - The file option is where you can sign out or close the editor
+  
+    
+ 
+    
 
 
