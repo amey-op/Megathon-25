@@ -18,5 +18,5 @@
   
  P.S:  
       Team name : Illuminati  - Amey Patel, Nipun Jain, Harshit Shah, Aarush Maheshwari, Aryan Jhawar  
-        Status  : Winners
+        Status  : Winners  
       Special thanks to OSDG for giving the wonderful opportunity to UG1's and E-Cell IIIT-H for hosting the beautiful event!!
