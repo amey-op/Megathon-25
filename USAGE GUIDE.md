@@ -7,7 +7,7 @@
 - JSON-GLib
 - libcurl
 
-  **Please note that the code we have written works properly only on linux, and its best if you use vscode**
+  **Please note that the code we have written works properly only on linux, and its best if you use vscode**  
   Run the following command on the main terminal of your computer to install the required librarys:  
   sudo apt update  
   sudo apt install build-essential pkg-config libgtk-3-dev libjson-glib-dev libcurl4-gnutls-dev
